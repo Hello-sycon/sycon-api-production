@@ -10,7 +10,7 @@
 
 Ce guide explique comment **s’authentifier**, **explorer la documentation Swagger**, **lister vos équipements** et **récupérer des données brutes**.
 
-**Swagger** : <https://hello-sycon.github.io/sycon-api/>  
+**Swagger** : <https://cloud.sycon.io/swagger-ui/index.html>  
 **URL API** : <https://cloud.sycon.io>  
 **Spécification API 1.2.0** : `docs/v1.2.0/sycon-cloud-api`.    
 
