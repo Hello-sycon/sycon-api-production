@@ -43,7 +43,7 @@ L’API utilise un **jeton JWT** transmis dans l’en-tête `Authorization` et u
 
 ## 3) Utiliser Swagger UI (pas à pas)
 
-1. Ouvrez : <https://hello-sycon.github.io/sycon-api/>.
+1. Ouvrez : <https://cloud.sycon.io/swagger-ui/index.html>.
 2. Cliquez **Authorize** et collez votre valeur `Bearer <JWT>` dans le champ prévu.
 3. Utilisez la **recherche** pour trouver un endpoint par nom ou par tag (« API auth », « Data API »).
 4. Dépliez un endpoint, cliquez **Try it out**, renseignez les paramètres, puis **Execute**.
@@ -118,4 +118,4 @@ L’API utilise un **jeton JWT** transmis dans l’en-tête `Authorization` et u
 ## 7) Support
 
 - Site : <https://www.sycon.fr/>
-- Contact : <hello@sycon.fr>
+- Contact : <support@sycon.fr>
